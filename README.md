@@ -62,7 +62,7 @@ PIR_Control_Of_PMSM/
 
 | File                                | Description                            |
 | ----------------------------------- | -------------------------------------- |
-| `ev_project_1.slx`                  | EV/IPMSM simulation model              |
+| `init_params.m`                     | Initialization of parameters           |
 | `pir_based_control_pmsm_motors.slx` | PIR-based PMSM control model           |
 | `fftTorqueAnalysis.m`               | FFT-based torque-ripple analysis       |
 | `printLogs.m`                       | Simulation data processing and logging |
